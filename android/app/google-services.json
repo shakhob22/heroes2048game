@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147592394614",
+    "project_id": "heroes-2048-game-400a3",
+    "storage_bucket": "heroes-2048-game-400a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147592394614:android:de526203e758fe346a2c57",
+        "android_client_info": {
+          "package_name": "com.shakhob.heroes2048game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147592394614-uua5o8skie86vhi6je10u3gmc3bhm7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdEGc-lVqu79LCYXco4d-A6ER0Xakriw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147592394614-uua5o8skie86vhi6je10u3gmc3bhm7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
